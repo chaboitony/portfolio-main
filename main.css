@@ -8,3 +8,69 @@ h4{
     background-color: blueviolet;
     color: white;
 }
+
+/* __________________________________- */
+/* HEADER SECTION  */
+/* __________________________________- */
+header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+/* __________________________________- */
+/* NAV SECTION  */
+/* __________________________________- */
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li{
+    float: left;
+}
+  
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: gainsboro;
+}
+/* __________________________________- */
+/* BODY SECTION  */
+/* __________________________________- */
+body{
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+  }
+
+/* __________________________________- */
+/* FOOTER SECTION  */
+/* __________________________________- */
+footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+  }
