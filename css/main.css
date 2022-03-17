@@ -1,18 +1,23 @@
+/*body{
+    background-color: black;
+}
+*/
+
 .col{
     padding: 1rem;
-    background-color: rgba(104, 127, 231, 0.637);
+    background-color: rgba(104, 231, 146, 0.637);
     border: 5px solid #fff;
     color: #fff;
 }
 .col-fluid{
     padding: 1rem;
-    background-color: rgba(104, 127, 231, 0.637);
+    background-color: rgba(104, 231, 146, 0.637);
     border: 5px solid #fff;
     color: #fff;
 }
 .col-xxl-1{
     padding: 1rem;
-    background-color: rgba(104, 127, 231, 0.637);
+    background-color: rgba(104, 231, 146, 0.637);
     border: 5px solid #fff;
     color: #fff;
 }
