@@ -1,6 +1,1 @@
-*.csharp linguist-detectable=false  
-*.java linguist-detectable=false 
-*.js linguist-detectable=javascript  
-*.html linguist-detectable=html  
-*.xml linguist-detectable=false
-*.css linguist-detectable=css
+* text=auto
