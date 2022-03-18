@@ -2,6 +2,9 @@
     background-color: black;
 }
 */
+h1{
+    padding: 1rem;
+}
 
 .col{
     padding: 1rem;
@@ -16,8 +19,8 @@
     color: #fff;
 }
 .col-xxl-3{
-    padding: 1rem;
-    background-color: rgba(104, 231, 146, 0.637);
-    border: 5px solid #fff;
+    /** padding: 1rem; **/
+    background-color: rgba(255, 255, 255, 0.637);
+    /** border: 5px solid #fff; **/
     color: #fff;
 }
