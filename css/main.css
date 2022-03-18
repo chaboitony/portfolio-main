@@ -1,11 +1,16 @@
-/*body{
-    background-color: black;
+body{
+    background-color: #212529;
 }
-*/
+
 h1{
     padding: 1rem;
 }
-
+a{
+    text-decoration: none;
+}
+h5{
+    text-align: center;
+}
 .col{
     padding: 1rem;
     background-color: rgba(104, 231, 146, 0.637);
@@ -20,7 +25,11 @@ h1{
 }
 .col-xxl-3{
     /** padding: 1rem; **/
-    background-color: rgba(255, 255, 255, 0.637);
+
     /** border: 5px solid #fff; **/
-    color: #fff;
+
+}
+footer{
+    color: rgb(255, 255, 255);
+    bacground-color: rgba(255, 255, 255, 0.25);
 }
